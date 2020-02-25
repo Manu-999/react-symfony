@@ -1,4 +1,4 @@
-users-management
+React-Symfony
 ================
 
-A Symfony project created on February 25, 2020, 10:30 am.
+## Boilerplate of React and Symfony 3.4 ready and working with some Routing examples.
