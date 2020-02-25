@@ -1,0 +1,9 @@
+users_homepage:
+    path:     /{reactRouting}
+    defaults: { _controller: UsersBundle:Default:index, reactRouting: null }
+    requirements:
+        reactRouting: ".+"
+
+users_register:
+    path: /register
+    defaults: { _controller: UsersBundle:Default:register }
